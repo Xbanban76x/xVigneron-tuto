@@ -16,11 +16,11 @@ Config.Vigneron = {
     Vente = {
         vector3(-2544.2680664063, 2316.0153808594, 33.216148376465)
     },
-    RecolteItem = "weed", -- Item à récolter
-    RecolteItemLabel = "Weed", -- Label de l'item récolté
+    RecolteItem = "raisin", -- Item à récolter
+    RecolteItemLabel = "Raisin", -- Label de l'item récolté
     RecolteCount = 3, --- Nombre d'item give lors de la récolte
-    TraitementItem = "weed_pooch", --- nom de l'item a give lors de la récolte
-    TraitementItemLabel = "Gros Weed", --- Label de l'item give lors de la récolte
+    TraitementItem = "grand_cru", --- nom de l'item a give lors de la récolte
+    TraitementItemLabel = "Grand cru", --- Label de l'item give lors de la récolte
     TraitementCount = 1, --- Nombre d'item give lors du traitement
     RecolteRemove = 5, --- Nombre d'item remove lors du traitement / nombre d'item qu'il faut pour traiter
     NumberForSell = 2, --- Nombre d'item qu'il faut pour vendre
